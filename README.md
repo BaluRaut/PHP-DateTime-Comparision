@@ -9,7 +9,20 @@ when you using with mysql make sure the format of the date should be y/m/d h:i:s
 
 I have commented all the code please see comment and follow the instructions.
 
-Please let me know if you have any help.
+Uses:
+
+ - compare two DateTime objects in PHP 5.2 or less
+ - PHP datetime comparing years 
+ - Datetime comparing days
+ - Datetime comparing Hours
+ - Datetime comparing Minutes
+ - Datetime comparing seconds
+ - 
+ 
+
+Please let me know if you need any help.
+
+
 
 braut@avika.in
 
